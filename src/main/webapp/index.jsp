@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'> Hello Ashok <font></h1>
+<h1><font color='red'> Welcome to devops class<font></h1>
 
 
   
